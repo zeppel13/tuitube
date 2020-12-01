@@ -1,4 +1,4 @@
-# tuitube
+# fork of tuitube: New Feature which sets video resolution
 A minimal tui youtube (invidious) frontend made in c++
 
 https://gitlab.com/djt3/tuitube
